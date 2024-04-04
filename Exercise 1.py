@@ -1,3 +1,11 @@
+"""
+Name = Mashhood Khan
+Roll No. = S24BSEEN1M01145
+Section = 1st Semester (3M)
+Department = Software Engineering
+Assignment = Programming Fundamentals
+Submitted To = Dr. Muhammad Nauman
+"""
 # In This Step We Are Taking Input From User For 1st Value
 number1_input=int(input("Kindly Please Enter your 1st number : "))
 # In This Step We Are Taking Input From User For 2nd Value
